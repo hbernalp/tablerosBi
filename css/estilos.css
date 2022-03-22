@@ -47,10 +47,7 @@ body{
 
 
 
-.hero__waves{
-    grid-area: content;
-    align-self: end;
-}
+
 
 .foot{
     display: block;

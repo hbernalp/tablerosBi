@@ -17,8 +17,8 @@ body{
 }
 
 .hero{
-    background-image: linear-gradient(to top, #1e3c72 0%, #1e3c72 1%, #2a5298 100%);
-    color: #fff;
+    background: linear-gradient( #ffffff 36%, #5e8497 15%, #5e8497 80%, #ffffff 23%);
+    
     display: grid;
     grid-template-rows:max-content 1fr;
     grid-template-areas: 
@@ -37,19 +37,32 @@ body{
     height: 90px;
 }
 
-
-
-
 .nav__logo{
+    font-family: 'Roboto', sans-serif;
     font-size: 1.8rem;
     font-weight: 300;
 }
 
-
-
-
+.nav-link{
+    font-family: 'Roboto', sans-serif;
+    
+}
 
 .foot{
     display: block;
     
 }
+
+.navbar{
+    background: #ffffff;
+}
+
+.navbar-nav li a{
+    color: #08384C;
+    
+  }
+
+  .navbar-nav li a:hover{
+      color:#08384C;
+      font-weight:bold;
+  }

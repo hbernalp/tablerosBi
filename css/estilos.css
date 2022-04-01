@@ -17,7 +17,7 @@ body{
 }
 
 .hero{
-    background: linear-gradient( #ffffff 36%, #5e8497 15%, #5e8497 80%, #ffffff 23%);
+    background: linear-gradient( #ffffff 36%, #E0E6E9 15%, #E0E6E9 80%, #ffffff 23%);
     
     display: grid;
     grid-template-rows:max-content 1fr;

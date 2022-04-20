@@ -1,3 +1,21 @@
+<?php
+
+session_start();
+ if(!isset($_SESSION['usuario'])){
+     echo'
+        <script>
+            alert("Por favor Iniciar sesión");
+            window.location = "index.php";
+        </script>
+        ';
+        //header("location: index.php");
+        session_destroy();
+        die(); 
+ }
+
+?>
+
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -99,6 +117,9 @@
                           
                         </ul>
                       </li>
+                      <li class = "nav-item dropdown">
+                          <a href="php/cerrar_sesion.php" class="nav-link dropdown-toggle" role="button">Cerrar Sesión</a>
+                      </li>
 
                     </ul>
                   </div>
@@ -108,6 +129,7 @@
         </nav>
 
     </header>
+    
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
 </body>

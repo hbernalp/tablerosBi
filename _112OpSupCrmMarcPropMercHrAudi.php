@@ -30,7 +30,7 @@ session_start();
 
     <header class="hero">
         <nav class="nav container">
-            <h2 class="nav__logo">Tableros de Operaciones, Crm, Mercadeo, Audiencias</h2>
+            <h2 class="nav__logo">Tableros Operaciones, Supply, Crm, Marcas Propias, Ecommerce, Mercadeo, Audiencias</h2>
             
             <!--Menu-->
             
@@ -49,6 +49,14 @@ session_start();
                       </li>
 
                       <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">Supply</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                          <li><a class="dropdown-item" href="https://app.powerbi.com/view?r=eyJrIjoiNGQ3ZTcwMTMtZWY2Mi00YTc4LTgzYzYtMTdkZTE4NDJhYzc2IiwidCI6IjNmOTU5M2UxLTU1ZGEtNDQyZi05M2RkLTU3Y2NmNzVmNGI3OCIsImMiOjR9" target="proyector">Suply</a></li>
+                          <li><a class="dropdown-item" href="https://app.powerbi.com/view?r=eyJrIjoiMmU3OWE0YWMtOGVjMy00NDU1LTliZmMtZWRlYzNjYzI2OTg0IiwidCI6IjNmOTU5M2UxLTU1ZGEtNDQyZi05M2RkLTU3Y2NmNzVmNGI3OCIsImMiOjR9" target="proyector">Edad de inventario</a></li>
+                        </ul>
+                      </li>
+
+                      <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">CRM</a>
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                           <li><a class="dropdown-item" href="https://app.powerbi.com/view?r=eyJrIjoiZmY4MGVjNzAtMTA5Zi00MmZiLTliNWItYzNjZmRiZmNjNGU2IiwidCI6IjNmOTU5M2UxLTU1ZGEtNDQyZi05M2RkLTU3Y2NmNzVmNGI3OCIsImMiOjR9&pageName=ReportSectionc213d6a2706d729f2515" target="proyector">Crm</a></li>
@@ -57,24 +65,51 @@ session_start();
                       </li>
 
                       <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">Marcas Propias</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                          <li><a class="dropdown-item" href="https://app.powerbi.com/view?r=eyJrIjoiMzc5ZGI2MjItMDBlYS00ZTBlLWJmYjktMWI2ZjM0YjU0MGM0IiwidCI6IjNmOTU5M2UxLTU1ZGEtNDQyZi05M2RkLTU3Y2NmNzVmNGI3OCIsImMiOjR9" target="proyector">Marcas propias</a></li>
+                        </ul>
+                      </li>
+
+                      <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">E-Commerce</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                          <li><a class="dropdown-item" href="https://app.powerbi.com/view?r=eyJrIjoiNmNiNjk1M2ItNGNjOC00YWY2LWFkNWMtNzVmZDY1NmJkMDIzIiwidCI6IjNmOTU5M2UxLTU1ZGEtNDQyZi05M2RkLTU3Y2NmNzVmNGI3OCIsImMiOjR9" target="proyector">Analitycs</a></li>
+                          <li><a class="dropdown-item" href="https://app.powerbi.com/view?r=eyJrIjoiZWI1NTM1OTUtMWVmZS00OTA4LWFkNDctYWUzYTJlNzlmYjdlIiwidCI6IjNmOTU5M2UxLTU1ZGEtNDQyZi05M2RkLTU3Y2NmNzVmNGI3OCIsImMiOjR9&pageName=ReportSection960e31632a9315c720b3" target="proyector">Apps y Mkp</a></li>
+                        </ul>
+                      </li>
+
+                      <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">Mercadeo</a>
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                           <li><a class="dropdown-item" href="https://app.powerbi.com/view?r=eyJrIjoiNDU4NGZlY2ItNDA5Yi00MjJmLWE5OWYtZTdjNGI2OWM0ZDE2IiwidCI6IjNmOTU5M2UxLTU1ZGEtNDQyZi05M2RkLTU3Y2NmNzVmNGI3OCIsImMiOjR9&pageName=ReportSection" target="proyector">IRS Cromantic</a></li>
                           <li><a class="dropdown-item" href="https://app.powerbi.com/view?r=eyJrIjoiNDgxMzBkOGQtNGE0Ny00YTY2LWE2NTUtYjEyMzkzNjkxYjliIiwidCI6IjNmOTU5M2UxLTU1ZGEtNDQyZi05M2RkLTU3Y2NmNzVmNGI3OCIsImMiOjR9&pageName=ReportSection" target="proyector">IRS Blind</a></li>
-                          <li><a class="dropdown-item" href="https://app.powerbi.com/view?r=eyJrIjoiZTZkZjAyNzktYzFjYi00NTQ4LTg3M2YtOWM2NWIyOTBlYjQ0IiwidCI6IjNmOTU5M2UxLTU1ZGEtNDQyZi05M2RkLTU3Y2NmNzVmNGI3OCIsImMiOjR9" target="proyector">II Cromantic</a></li>
+                          <li><a class="dropdown-item" href="https://app.powerbi.com/view?r=eyJrIjoiZTZkZjAyNzktYzFjYi00NTQ4LTg3M2YtOWM2NWIyOTBlYjQ0IiwidCI6IjNmOTU5M2UxLTU1ZGEtNDQyZi05M2RkLTU3Y2NmNzVmNGI3OCIsImMiOjR9" target="proyector">Influenciadoras</a></li>
                           <li><a class="dropdown-item" href="https://app.powerbi.com/view?r=eyJrIjoiMWNjZjNiMzktN2QwNi00ZWUxLTljZDgtNDAyZGE5MTdjYTZlIiwidCI6IjNmOTU5M2UxLTU1ZGEtNDQyZi05M2RkLTU3Y2NmNzVmNGI3OCIsImMiOjR9&pageName=ReportSection960e31632a9315c720b3" target="proyector">Pauta Cromantic</a></li>
                           <li><a class="dropdown-item" href="https://app.powerbi.com/view?r=eyJrIjoiNjQyZDc3MmUtY2ZhOC00MDNkLWJhOTgtZTE2MmZhZTY5YTRhIiwidCI6IjNmOTU5M2UxLTU1ZGEtNDQyZi05M2RkLTU3Y2NmNzVmNGI3OCIsImMiOjR9" target="proyector">Pauta Blind</a></li>
                         </ul>
                       </li>
-                      
+
                       <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">Audiencias</a>
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">Audiencia</a>
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                          <li><a class="dropdown-item" href="https://app.powerbi.com/view?r=eyJrIjoiNDU4NGZlY2ItNDA5Yi00MjJmLWE5OWYtZTdjNGI2OWM0ZDE2IiwidCI6IjNmOTU5M2UxLTU1ZGEtNDQyZi05M2RkLTU3Y2NmNzVmNGI3OCIsImMiOjR9&pageName=ReportSection" target="proyector">Audiencias Cromantic</a></li>
-                          <li><a class="dropdown-item" href="https://app.powerbi.com/view?r=eyJrIjoiNDgxMzBkOGQtNGE0Ny00YTY2LWE2NTUtYjEyMzkzNjkxYjliIiwidCI6IjNmOTU5M2UxLTU1ZGEtNDQyZi05M2RkLTU3Y2NmNzVmNGI3OCIsImMiOjR9&pageName=ReportSection" target="proyector">Audiencias Blind</a></li>
+                          <!--<li><a class="dropdown-item" href="gpp.html" target="proyector">Gasto por persona</a></li>-->
+                          <li><a class="dropdown-item" href="#" target="proyector">Audiencia Cromantic</a></li>
+                          <li><a class="dropdown-item" href="#" target="proyector">Audiencia Blind</a></li>
+                          
                         </ul>
                       </li>
 
+                      <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">HR</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                          <!--<li><a class="dropdown-item" href="gpp.html" target="proyector">Gasto por persona</a></li>-->
+                          <li><a class="dropdown-item" href="https://app.powerbi.com/view?r=eyJrIjoiNDdhNDBmYjctOWJjZi00NDdmLWE5OTQtMjE3NTA3YmM2YjhlIiwidCI6IjNmOTU5M2UxLTU1ZGEtNDQyZi05M2RkLTU3Y2NmNzVmNGI3OCIsImMiOjR9" target="proyector">Indicadores de rotación y encuesta de salida</a></li>
+                          <li><a class="dropdown-item" href="https://app.powerbi.com/view?r=eyJrIjoiNTVjMTdhNGItODEyMi00N2IxLWEyZDYtOThkOGQ5MzM1N2EzIiwidCI6IjNmOTU5M2UxLTU1ZGEtNDQyZi05M2RkLTU3Y2NmNzVmNGI3OCIsImMiOjR9" target="proyector">Wep</a></li>
+                          <li><a class="dropdown-item" href="https://app.powerbi.com/view?r=eyJrIjoiMmEwYzZlNzItNzAxZS00NjA5LWI3ZmUtZGYxYmM5NDYxNWUwIiwidCI6IjNmOTU5M2UxLTU1ZGEtNDQyZi05M2RkLTU3Y2NmNzVmNGI3OCIsImMiOjR9" target="proyector">Demografico</a></li>
+                          <li><a class="dropdown-item" href="https://app.powerbi.com/view?r=eyJrIjoiMGMwNzA5ZmYtM2ExMy00ZTNiLTg4NmEtYWQxNzBmMTZmNmI1IiwidCI6IjNmOTU5M2UxLTU1ZGEtNDQyZi05M2RkLTU3Y2NmNzVmNGI3OCIsImMiOjR9&pageName=ReportSection960e31632a9315c720b3" target="proyector">Formación</a></li>
+                        </ul>
+                      </li>
 
                       <li class = "nav-item dropdown">
                           <a href="php/cerrar_sesion.php" class="nav-link dropdown-toggle" role="button">Cerrar Sesión</a>

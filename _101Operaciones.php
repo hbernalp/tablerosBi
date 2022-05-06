@@ -1,6 +1,7 @@
 <?php
 
 session_start();
+
  if(!isset($_SESSION['usuario'])){
      echo'
         <script>
@@ -11,7 +12,15 @@ session_start();
         //header("location: index.php");
         session_destroy();
         die(); 
- }
+ //else{
+ // if(isset($_SESSION['usuario'])){
+ //  $valida_link = mysqli_query($conexion, "SELECT * FROM links WHERE id_perfil == '101'");
+ //  $url_link = mysqli_fetch_array($valida_link);
+ //  echo "<p>$url_link</p>";
+ //  //$url = $_POST['url'];
+ //  //   echo "<p>$url</p>";
+
+ } 
 
 ?>
 
@@ -30,7 +39,7 @@ session_start();
 
     <header class="hero">
         <nav class="nav container">
-            <h2 class="nav__logo">Operaciones</h2>
+            <h2 class="nav__logo titulo">Operaciones</h2>
             
             <!--Menu-->
             

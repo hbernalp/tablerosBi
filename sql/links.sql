@@ -1,0 +1,27 @@
+INSERT INTO `links` (`id`, `cod`, `nombre`, `direccion`, `id_perfil`) VALUES
+(NULL, '1010', 'Asi Vamos', 'https://prosalon.sharepoint.com/:v:/s/BIprosalon/ERPm1fOqXA5MlBxASkOd9QABgisNqNzPGcvcomGDDWbOsQ?e=e27qmF', '101'),
+(NULL, '1011', 'Flash Comercial', 'https://prosalon.sharepoint.com/:v:/s/BIprosalon/ERmOTwZL8BVMkMPHGLIOhRgB7i7f6XX37VbEwEsCiP9IIw?e=l3HWMv', '101'),
+(NULL, '1020', 'Supply', 'https://prosalon.sharepoint.com/:v:/s/BIprosalon/Ea9zg2ZskwZNnCR7OwLx7vsB3we_IFoUArFwFWTsFGb90w?e=pmRX60', '102'),
+(NULL, '1021', 'Edad de inventario', 'FALTA. TABLERO NO TERMINADO', '102'),
+(NULL, '1030', 'pyg comercial', 'https://prosalon.sharepoint.com/:v:/s/BIprosalon/EYtzaO-91wJJqREc_lqOi-UBnbk0Ap_fovWnQgc2KgHH1A?e=GzihLf', '103'),
+(NULL, '1040', 'CRM', 'https://prosalon.sharepoint.com/:v:/s/BIprosalon/Eci9eCcG-xNMnzJzXIhOQpcBpsxDVApQoJ9RyKvdJPEBaw?e=b1gbpf', '104'),
+(NULL, '1041', 'CRM RFM', 'NO', '104'),
+(NULL, '1050', 'Marcas propias', 'https://prosalon.sharepoint.com/:v:/s/BIprosalon/ETw25RIHyD5DkuzNxowMtYABTs26_E4FF9sF0ktsfYYjqQ?e=xTERFh', '105'),
+(NULL, '1060', 'Ecommerce-Analytics', 'https://prosalon.sharepoint.com/:v:/s/BIprosalon/EVT1_nvqiKxEmj9xK1t4e0cBt8j4hjl1dF4c8Ruw3lOn5Q?e=DlGPuO', '106'),
+(NULL, '1061', 'Apps y MKP', 'NO', '106'),
+(NULL, '1070', 'Redes Sociales Blind', 'TABLERO CREADO DESPUES DE SESION DE EXPLICACION DE TABLEROS', '107'),
+(NULL, '1071', 'Redes Sociales Cromantic', 'https://prosalon.sharepoint.com/:v:/s/BIprosalon/ER47VEBPuUNCmzwhJDqE1iQBsl2RhJMDs_FAdnr6_tgOPA?e=nn5uVI', '107'),
+(NULL, '1072', 'Influenciadoras cromantic', 'https://prosalon.sharepoint.com/:v:/s/BIprosalon/EZ7Q3aJ1T09LqOBTvCLkBWQBP2Xy5FXId89CUuvxpbAANA?e=ySl9CA', '107'),
+(NULL, '1073', 'Influenciadoras Blind', 'NO', '107'),
+(NULL, '1074', 'Pauta Cromantic', 'https://prosalon.sharepoint.com/:v:/s/BIprosalon/EfIwyEYGZhtLg6WSWD7Ceu4BQ6Vsvv2Mi7ao00e1hz39jg?e=4cEfk6', '107'),
+(NULL, '1075', 'Pauta Blind', 'https://prosalon.sharepoint.com/:v:/s/BIprosalon/EfIwyEYGZhtLg6WSWD7Ceu4BQ6Vsvv2Mi7ao00e1hz39jg?e=4cEfk6', '107'),
+(NULL, '1080', 'WEP', 'https://prosalon.sharepoint.com/:v:/s/BIprosalon/EdWQGFwfwQ5Mv6SHGqm58MABkJEteXSo0hJ1ecmMrB9lnQ?e=wA5a4V', '108'),
+(NULL, '1081', 'Demografico','https://prosalon.sharepoint.com/:v:/s/BIprosalon/ESlCp2J0vs5DpXddzWGqtbAB1Rd-lp2um2Y81gehRyq4DA?e=rR3KDt', '108'),
+(NULL, '1082', 'Formación', 'FALTA. TABLERO NO TERMINADO', '108'),
+(NULL, '1083', 'Rotacion', 'https://prosalon.sharepoint.com/:v:/s/BIprosalon/EVkkpO5I58lFnilC4pSZ4qoBQAqJ3iDHrWIDYlzZ9TdtKg?e=yrKoDj', '108'),
+(NULL, '1090', 'SAC BLIND', 'TABLERO CREADO DESPUES DE SESION DE EXPLICACION DE TABLEROS', '109'),
+(NULL, '1091', 'SAC Cromantic', 'TABLERO CREADO DESPUES DE SESION DE EXPLICACION DE TABLEROS', '109'),
+(NULL, '1101', 'Audiencias Cromantic', 'https://prosalon.sharepoint.com/:v:/s/BIprosalon/EfIwyEYGZhtLg6WSWD7Ceu4BQ6Vsvv2Mi7ao00e1hz39jg?e=4cEfk6', '110'),
+(NULL, '1101', 'Audiencias Blind','https://prosalon.sharepoint.com/:v:/s/BIprosalon/EfIwyEYGZhtLg6WSWD7Ceu4BQ6Vsvv2Mi7ao00e1hz39jg?e=4cEfk6', '110');
+
+

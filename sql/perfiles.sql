@@ -1,0 +1,16 @@
+INSERT INTO `perfiles` (`id`, `nombre_perfil`) VALUES
+('101',	'Operaciones'),
+('102',	'Operaciones, Marcas Propias'),
+('103',	'Operaciones, Supply, Crm, Ecommerce, Mercadeo'),
+('104',	'Operaciones, Supply, Crm'),
+('105',	'Operaciones, Operaciones, Supply, Crm, Marcas Propias, Ecommerce, Mercadeo, Audiencias'),
+('106',	'Operaciones, Supply'),
+('107',	'Operaciones, Crm, Mercadeo'),
+('108',	'Operaciones, Crm, Mercadeo, Audiencias'),
+('109',	'Operaciones, Crm'),
+('110',	'Operaciones, Supply, Financiero'),
+('111',	'Supply, Sac'),
+('112',	'Operaciones, Supply, Crm, Marcas Propias, Ecommerce, Mercadeo, Audiencias'),
+('113',	'Administrador'),
+('114',	'Ninguno'),
+('115',	'Todos');

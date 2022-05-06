@@ -30,7 +30,7 @@ session_start();
 
     <header class="hero">
         <nav class="nav container">
-            <h2 class="nav__logo">Tableros Operaciones, Crm, Mercadeo</h2>
+            <h2 class="nav__logo">Tableros de Operaciones, Crm, Mercadeo, Audiencias</h2>
             
             <!--Menu-->
             
@@ -61,12 +61,21 @@ session_start();
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                           <li><a class="dropdown-item" href="https://app.powerbi.com/view?r=eyJrIjoiNDU4NGZlY2ItNDA5Yi00MjJmLWE5OWYtZTdjNGI2OWM0ZDE2IiwidCI6IjNmOTU5M2UxLTU1ZGEtNDQyZi05M2RkLTU3Y2NmNzVmNGI3OCIsImMiOjR9&pageName=ReportSection" target="proyector">IRS Cromantic</a></li>
                           <li><a class="dropdown-item" href="https://app.powerbi.com/view?r=eyJrIjoiNDgxMzBkOGQtNGE0Ny00YTY2LWE2NTUtYjEyMzkzNjkxYjliIiwidCI6IjNmOTU5M2UxLTU1ZGEtNDQyZi05M2RkLTU3Y2NmNzVmNGI3OCIsImMiOjR9&pageName=ReportSection" target="proyector">IRS Blind</a></li>
-                          <li><a class="dropdown-item" href="https://app.powerbi.com/view?r=eyJrIjoiZTZkZjAyNzktYzFjYi00NTQ4LTg3M2YtOWM2NWIyOTBlYjQ0IiwidCI6IjNmOTU5M2UxLTU1ZGEtNDQyZi05M2RkLTU3Y2NmNzVmNGI3OCIsImMiOjR9" target="proyector">II Cromantic</a></li>
+                          <li><a class="dropdown-item" href="https://app.powerbi.com/view?r=eyJrIjoiZTZkZjAyNzktYzFjYi00NTQ4LTg3M2YtOWM2NWIyOTBlYjQ0IiwidCI6IjNmOTU5M2UxLTU1ZGEtNDQyZi05M2RkLTU3Y2NmNzVmNGI3OCIsImMiOjR9" target="proyector">Influenciadoras</a></li>
                           <li><a class="dropdown-item" href="https://app.powerbi.com/view?r=eyJrIjoiMWNjZjNiMzktN2QwNi00ZWUxLTljZDgtNDAyZGE5MTdjYTZlIiwidCI6IjNmOTU5M2UxLTU1ZGEtNDQyZi05M2RkLTU3Y2NmNzVmNGI3OCIsImMiOjR9&pageName=ReportSection960e31632a9315c720b3" target="proyector">Pauta Cromantic</a></li>
                           <li><a class="dropdown-item" href="https://app.powerbi.com/view?r=eyJrIjoiNjQyZDc3MmUtY2ZhOC00MDNkLWJhOTgtZTE2MmZhZTY5YTRhIiwidCI6IjNmOTU5M2UxLTU1ZGEtNDQyZi05M2RkLTU3Y2NmNzVmNGI3OCIsImMiOjR9" target="proyector">Pauta Blind</a></li>
                         </ul>
                       </li>
                       
+                      <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">Audiencias</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                          <li><a class="dropdown-item" href="https://app.powerbi.com/view?r=eyJrIjoiNDU4NGZlY2ItNDA5Yi00MjJmLWE5OWYtZTdjNGI2OWM0ZDE2IiwidCI6IjNmOTU5M2UxLTU1ZGEtNDQyZi05M2RkLTU3Y2NmNzVmNGI3OCIsImMiOjR9&pageName=ReportSection" target="proyector">Audiencias Cromantic</a></li>
+                          <li><a class="dropdown-item" href="https://app.powerbi.com/view?r=eyJrIjoiNDgxMzBkOGQtNGE0Ny00YTY2LWE2NTUtYjEyMzkzNjkxYjliIiwidCI6IjNmOTU5M2UxLTU1ZGEtNDQyZi05M2RkLTU3Y2NmNzVmNGI3OCIsImMiOjR9&pageName=ReportSection" target="proyector">Audiencias Blind</a></li>
+                        </ul>
+                      </li>
+
+
                       <li class = "nav-item dropdown">
                           <a href="php/cerrar_sesion.php" class="nav-link dropdown-toggle" role="button">Cerrar Sesión</a>
                       </li>

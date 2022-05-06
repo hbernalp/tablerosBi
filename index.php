@@ -37,8 +37,13 @@ if(isset($_SESSION['usuario'])){
                     </div>
                     <div class="caja__trasera-register">
                         <h3>¿Aún no tienes una cuenta?</h3>
-                        <p>Regístrate para que puedas iniciar sesión</p>
-                        <button id="btn__registrarse">Regístrarse</button>
+                        <p>Solicita tu registro en GLPI</p>
+                        <a href="http://glpi.prosalon.e-logika.co/vtex2/index.php?noAUTO=1">
+                        <button id="btn__registrarse">Ir a GLPI</button>
+                        </a>
+                        <a href="administrador.php">
+                            <button id="btn_registrarse">Administrador</button>
+                        </a>
                     </div>
                 </div>
 
@@ -52,15 +57,18 @@ if(isset($_SESSION['usuario'])){
                         <button>Entrar</button>
                     </form>
 
-                    <!--Register-->
-                    <form action="php/registro_usuario_be.php" method="POST" class="formulario__register">
-                        <h2>Regístrarse</h2>
-                        <input type="text" placeholder="Nombre completo" name="nombre_completo">
+                    <!--Solicitar Usuario
+                    <form action="" method="POST" class="formulario__register">
+                        <h2>Solicitar Usuario</h2>
+                        <!--<input type="text" placeholder="Nombre completo" name="nombre_completo">
                         <input type="text" placeholder="Correo Electronico" name="correo">
                         <input type="text" placeholder="Usuario" name="usuario">
                         <input type="password" placeholder="Contraseña" name="contrasena">
-                        <button>Regístrarse</button>
-                    </form>
+                        <a href="http://glpi.prosalon.e-logika.co/vtex2/index.php?noAUTO=1">  
+                            <button>Solicitar</button>
+                        </a>
+                    </form>-->
+                    
                 </div>
             </div>
 

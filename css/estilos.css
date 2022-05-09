@@ -41,13 +41,11 @@ body{
     
     font-family: 'Roboto', sans-serif;
     font-size: 1.8rem;
-    font-weight: 300;
+    font-weight: 200;
 }
 
 .nav-link{
-    font-family: 'Roboto', sans-serif;
-    
-    
+    font-family: 'Roboto', sans-serif;    
 }
 
 .foot{
@@ -69,4 +67,5 @@ body{
       font-weight:bold;
   }
 
+  
  

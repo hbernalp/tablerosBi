@@ -30,11 +30,11 @@ session_start();
 
     <header class="hero">
         <nav class="nav container">
-            <h2 class="nav__logo">Tablero Operaciones y Marcas Propias</h2>
+            <h2 class="nav__logo">Tablero BI</h2>
             
             <!--Menu-->
             
-            <nav class="navbar navbar-expand-lg bg-white">
+              <nav class="navbar navbar-expand-lg bg-white">
                 <div class="container-fluid">
                 
                   <div class="collapse navbar-collapse" id="navbarNavDropdown">
@@ -63,6 +63,7 @@ session_start();
                   </div>
                 </div>
               </nav>
+            
               <iframe name="proyector" src="about:blank" width="150%" height="850%" frameborder="1"></iframe>
         </nav>
 

@@ -39,7 +39,7 @@ session_start();
 
     <header class="hero">
         <nav class="nav container">
-            <h2 class="nav__logo titulo">Operaciones</h2>
+            <h2 class="nav__logo titulo">Tablero BI</h2>
             
             <!--Menu-->
             

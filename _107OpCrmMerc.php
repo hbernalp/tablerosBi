@@ -30,7 +30,7 @@ session_start();
 
     <header class="hero">
         <nav class="nav container">
-            <h2 class="nav__logo">Tableros Operaciones, Crm, Mercadeo</h2>
+            <h2 class="nav__logo">Tablero BI</h2>
             
             <!--Menu-->
             

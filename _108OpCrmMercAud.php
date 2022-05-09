@@ -70,8 +70,8 @@ session_start();
                       <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">Audiencias</a>
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                          <li><a class="dropdown-item" href="https://app.powerbi.com/view?r=eyJrIjoiNDU4NGZlY2ItNDA5Yi00MjJmLWE5OWYtZTdjNGI2OWM0ZDE2IiwidCI6IjNmOTU5M2UxLTU1ZGEtNDQyZi05M2RkLTU3Y2NmNzVmNGI3OCIsImMiOjR9&pageName=ReportSection" target="proyector">Audiencias Cromantic</a></li>
-                          <li><a class="dropdown-item" href="https://app.powerbi.com/view?r=eyJrIjoiNDgxMzBkOGQtNGE0Ny00YTY2LWE2NTUtYjEyMzkzNjkxYjliIiwidCI6IjNmOTU5M2UxLTU1ZGEtNDQyZi05M2RkLTU3Y2NmNzVmNGI3OCIsImMiOjR9&pageName=ReportSection" target="proyector">Audiencias Blind</a></li>
+                          <li><a class="dropdown-item" href="#" target="proyector">Audiencias Cromantic</a></li>
+                          <li><a class="dropdown-item" href="#" target="proyector">Audiencias Blind</a></li>
                         </ul>
                       </li>
 

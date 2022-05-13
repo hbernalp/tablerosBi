@@ -59,3 +59,23 @@ INSERT INTO `usuarios` (`id`, `id_perfil`, `nombre_completo`, `correo`, `usuario
 (NULL, '109','MARULANDA DYLAN SANTIAGO','santiago.marulanda@prosalon.com.co','santiago.marulanda@prosalon.com.co','1234'),
 (NULL, '109','ORTIZ OCAMPO DANIELA','daniela.ortiz@prosalon.com.co','daniela.ortiz@prosalon.com.co','1234'),
 (NULL, '112','SAAVEDRA ARIAS XIMENA ANDREA','ximena.saavedra@prosalon.com.co','ximena.saavedra@prosalon.com.co','1234');
+
+INSERT INTO `usuarios` (`id`, `id_perfil`, `nombre_completo`, `correo`, `usuario`, `contrasena`) VALUES 
+(NULL, '116', 'PRIETO NEIZA ALIRIO', 'alirio.prieto@prosalon.com.co', 'alirio.prieto@prosalon.com.co','1234'),
+(NULL, '117', 'ORTIZ HOSTOS ANDREA VIVIANA', 'andrea.ortiz@prosalon.com.co', 'andrea.ortiz@prosalon.com.co','1234'),
+(NULL, '118', 'AGUILAR AGUDELO ALEJANDRA', 'alejandra.aguilar@prosalon.com.co', 'alejandra.aguilar@prosalon.com.co','1234'),
+(NULL, '118', 'GIL BERMUDEZ LUISA MARIA', 'luisa.gil@prosalon.com.co', 'luisa.gil@prosalon.com.co','1234'),
+(NULL, '119', 'BRAVO MUÑOZ CAMILO ARTURO', 'camilo.bravo@prosalon.com.co', 'camilo.bravo@prosalon.com.co','1234'),
+(NULL, '120', 'GONZALEZ GODOY LAURA BIBIANA', 'laura.gonzalez@prosalon.com.co','laura.gonzalez@prosalon.com.co','1234'), 
+(NULL, '120', 'QUINTERO ORTIZ YADIRA XIMENA', 'yadira.quintero@prosalon.com.co', 'yadira.quintero@prosalon.com.co','1234'),
+(NULL, '120', 'QUIROGA PULIDO LUZ MERY', 'luz.quiroga@prosalon.com.co', 'luz.quiroga@prosalon.com.co','1234'),
+(NULL, '120', 'DE LOS RIOS LENTINO CAROLINA HAYDEE', 'rios.de@prosalon.com.co', 'rios.de@prosalon.com.co','1234'),
+(NULL, '120', 'BALCAZAR YENNY PATRICIA', 'patricia.balcazar@prosalon.com.co', 'patricia.balcazar@prosalon.com.co','1234'),
+(NULL, '121', 'ACHURY RINCON DIEGO CAMILO', 'diego.achury@prosalon.com.co', 'diego.achury@prosalon.com.co','1234'),
+(NULL, '121', 'MALDONADO BENAVIDES LEIDY PATRICIA', 'leidy.maldonado@prosalon.com.co', 'leidy.maldonado@prosalon.com.co','1234'),
+(NULL, '122', 'VELANDIA MARIN JUANITA ALEJANDRA', 'juanita.velandia@prosalon.com.co', 'juanita.velandia@prosalon.com.co','1234'),
+(NULL, '122', 'SUACHA LARA LIZ YINETH', 'liz.suacha@prosalon.com.co', 'liz.suacha@prosalon.com.co','1234'),
+(NULL, '122', 'CARDOZO RODRIGUEZ MONICA', 'monica.cardozo@prosalon.com.co', 'monica.cardozo@prosalon.com.co','1234'),
+(NULL, '123', 'GONZALEZ ORDOÑEZ DIANA PATRICIA', 'diana.gonzalez@prosalon.com.co', 'diana.gonzalez@prosalon.com.co','1234'),
+(NULL, '123', 'BAQUERO CASTELLANOS JAVIER ANDRES', 'javier.baquero@prosalon.com.co', 'javier.baquero@prosalon.com.co','1234'),
+(NULL, '124', 'MARTINEZ VERA MIGUEL ANGEL', 'miguel.martinez@prosalon.com.co', 'miguel.martinez@prosalon.com.co','1234');

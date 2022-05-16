@@ -51,7 +51,7 @@ session_start();
                       <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">Marcas Propias</a>
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                          <li><a class="dropdown-item" href="https://app.powerbi.com/view?r=eyJrIjoiZjAyNWY3NmYtMzEzNy00Mzk1LWE4YzktYjYyZDQwMjFmZWQxIiwidCI6IjNmOTU5M2UxLTU1ZGEtNDQyZi05M2RkLTU3Y2NmNzVmNGI3OCIsImMiOjR9&pageName=ReportSection960e31632a9315c720b3" target="proyector">Marcas propias</a></li>
+                          <li><a class="dropdown-item" href="https://app.powerbi.com/view?r=eyJrIjoiMzc5ZGI2MjItMDBlYS00ZTBlLWJmYjktMWI2ZjM0YjU0MGM0IiwidCI6IjNmOTU5M2UxLTU1ZGEtNDQyZi05M2RkLTU3Y2NmNzVmNGI3OCIsImMiOjR9" target="proyector">Marcas propias</a></li>
                         </ul>
                       </li>
                       

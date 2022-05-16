@@ -58,8 +58,9 @@ session_start();
                       <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">E-Commerce</a>
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                          <li><a class="dropdown-item" href="https://app.powerbi.com/view?r=eyJrIjoiNmY3ZTZkNmEtYThiYS00ZjE0LWI2MWMtM2Y1NjgyYTFjNTExIiwidCI6IjNmOTU5M2UxLTU1ZGEtNDQyZi05M2RkLTU3Y2NmNzVmNGI3OCIsImMiOjR9&pageName=ReportSection960e31632a9315c720b3" target="proyector">Analitycs</a></li>
+                          <li><a class="dropdown-item" href="https://app.powerbi.com/view?r=eyJrIjoiNmNiNjk1M2ItNGNjOC00YWY2LWFkNWMtNzVmZDY1NmJkMDIzIiwidCI6IjNmOTU5M2UxLTU1ZGEtNDQyZi05M2RkLTU3Y2NmNzVmNGI3OCIsImMiOjR9" target="proyector">Analitycs</a></li>
                           <li><a class="dropdown-item" href="https://app.powerbi.com/view?r=eyJrIjoiZWI1NTM1OTUtMWVmZS00OTA4LWFkNDctYWUzYTJlNzlmYjdlIiwidCI6IjNmOTU5M2UxLTU1ZGEtNDQyZi05M2RkLTU3Y2NmNzVmNGI3OCIsImMiOjR9&pageName=ReportSection960e31632a9315c720b3" target="proyector">Apps y Mkp</a></li>
+                          <li><a class="dropdown-item" href="https://app.powerbi.com/view?r=eyJrIjoiNDNjOGZjZTQtOWRjNy00ZjcwLTllMjYtNTM3OGMyZWU4YTMwIiwidCI6IjNmOTU5M2UxLTU1ZGEtNDQyZi05M2RkLTU3Y2NmNzVmNGI3OCIsImMiOjR9" target="proyector">Digital</a></li>
                         </ul>
                       </li>
 

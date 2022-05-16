@@ -58,19 +58,25 @@ session_start();
                       <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">E-Commerce</a>
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                          <li><a class="dropdown-item" href="https://app.powerbi.com/view?r=eyJrIjoiNmY3ZTZkNmEtYThiYS00ZjE0LWI2MWMtM2Y1NjgyYTFjNTExIiwidCI6IjNmOTU5M2UxLTU1ZGEtNDQyZi05M2RkLTU3Y2NmNzVmNGI3OCIsImMiOjR9&pageName=ReportSection960e31632a9315c720b3" target="proyector">Analitycs</a></li>
+                          <li><a class="dropdown-item" href="https://app.powerbi.com/view?r=eyJrIjoiNmNiNjk1M2ItNGNjOC00YWY2LWFkNWMtNzVmZDY1NmJkMDIzIiwidCI6IjNmOTU5M2UxLTU1ZGEtNDQyZi05M2RkLTU3Y2NmNzVmNGI3OCIsImMiOjR9" target="proyector">Analitycs</a></li>
                           <li><a class="dropdown-item" href="https://app.powerbi.com/view?r=eyJrIjoiZWI1NTM1OTUtMWVmZS00OTA4LWFkNDctYWUzYTJlNzlmYjdlIiwidCI6IjNmOTU5M2UxLTU1ZGEtNDQyZi05M2RkLTU3Y2NmNzVmNGI3OCIsImMiOjR9&pageName=ReportSection960e31632a9315c720b3" target="proyector">Apps y Mkp</a></li>
+                          <li><a class="dropdown-item" href="https://app.powerbi.com/view?r=eyJrIjoiNDNjOGZjZTQtOWRjNy00ZjcwLTllMjYtNTM3OGMyZWU4YTMwIiwidCI6IjNmOTU5M2UxLTU1ZGEtNDQyZi05M2RkLTU3Y2NmNzVmNGI3OCIsImMiOjR9" target="proyector">Digital</a></li>
                         </ul>
                       </li>
 
                       <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">Mercadeo</a>
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                          <li><a class="dropdown-item" href="https://app.powerbi.com/view?r=eyJrIjoiNDU4NGZlY2ItNDA5Yi00MjJmLWE5OWYtZTdjNGI2OWM0ZDE2IiwidCI6IjNmOTU5M2UxLTU1ZGEtNDQyZi05M2RkLTU3Y2NmNzVmNGI3OCIsImMiOjR9&pageName=ReportSection" target="proyector">IRS Cromantic</a></li>
-                          <li><a class="dropdown-item" href="https://app.powerbi.com/view?r=eyJrIjoiNDgxMzBkOGQtNGE0Ny00YTY2LWE2NTUtYjEyMzkzNjkxYjliIiwidCI6IjNmOTU5M2UxLTU1ZGEtNDQyZi05M2RkLTU3Y2NmNzVmNGI3OCIsImMiOjR9&pageName=ReportSection" target="proyector">IRS Blind</a></li>
-                          <li><a class="dropdown-item" href="https://app.powerbi.com/view?r=eyJrIjoiZTZkZjAyNzktYzFjYi00NTQ4LTg3M2YtOWM2NWIyOTBlYjQ0IiwidCI6IjNmOTU5M2UxLTU1ZGEtNDQyZi05M2RkLTU3Y2NmNzVmNGI3OCIsImMiOjR9" target="proyector">Influenciadoras</a></li>
-                          <li><a class="dropdown-item" href="https://app.powerbi.com/view?r=eyJrIjoiMWNjZjNiMzktN2QwNi00ZWUxLTljZDgtNDAyZGE5MTdjYTZlIiwidCI6IjNmOTU5M2UxLTU1ZGEtNDQyZi05M2RkLTU3Y2NmNzVmNGI3OCIsImMiOjR9&pageName=ReportSection960e31632a9315c720b3" target="proyector">Pauta Cromantic</a></li>
+                          <li><a class="dropdown-item" href="https://app.powerbi.com/view?r=eyJrIjoiNzI0ZTNhY2QtMzk1Yi00ZWUwLWIxZGUtNTI4Y2Y1MWI5M2E0IiwidCI6IjNmOTU5M2UxLTU1ZGEtNDQyZi05M2RkLTU3Y2NmNzVmNGI3OCIsImMiOjR9" target="proyector">IRS Cromantic</a></li>
+                          <li><a class="dropdown-item" href="https://app.powerbi.com/view?r=eyJrIjoiYzNjMzAwMzMtODA5Zi00MzFjLTgxMWUtYWJiZmUwY2YyZjU2IiwidCI6IjNmOTU5M2UxLTU1ZGEtNDQyZi05M2RkLTU3Y2NmNzVmNGI3OCIsImMiOjR9&pageName=ReportSectionbbf50c3a839bc9c289e3" target="proyector">IRS Blind</a></li>
+                          <li><a class="dropdown-item" href="https://app.powerbi.com/view?r=eyJrIjoiYmVjYjRkMjYtNmU1Yy00ZDU5LWI2ODEtNDQ0YWUzM2QyMTQ5IiwidCI6IjNmOTU5M2UxLTU1ZGEtNDQyZi05M2RkLTU3Y2NmNzVmNGI3OCIsImMiOjR9&pageName=ReportSection" target="proyector">Influenciadoras</a></li>
                           <li><a class="dropdown-item" href="https://app.powerbi.com/view?r=eyJrIjoiNjQyZDc3MmUtY2ZhOC00MDNkLWJhOTgtZTE2MmZhZTY5YTRhIiwidCI6IjNmOTU5M2UxLTU1ZGEtNDQyZi05M2RkLTU3Y2NmNzVmNGI3OCIsImMiOjR9" target="proyector">Pauta Blind</a></li>
+                          <li><hr class="dropdown-divider"></li>
+                          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">Pauta Cromantic</a>
+                          <!--<li><a class="dropdown-item" href="" target="proyector">Pauta Cromantic</a></li>-->
+                          <li><a class="dropdown-item" href="https://platform.datorama.com/external/dashboard?embedpage=253270ed-0a1f-4760-a683-c24a33025846" target="proyector">Pauta Datorama social</a></li>
+                          <li><a class="dropdown-item" href="https://platform.datorama.com/external/dashboard?embedpage=00330952-f19b-41cf-a8ca-1bb82f405acf" target="proyector">Pauta Datorama semanal</a></li>
+                          <li><a class="dropdown-item" href="https://platform.datorama.com/external/dashboard?embedpage=454b91ff-d623-4ae2-9a3e-ace08dcdb847" target="proyector">Pauta Datorama Mensual</a></li>
                         </ul>
                       </li>
 

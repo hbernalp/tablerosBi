@@ -37,9 +37,9 @@ if(isset($_SESSION['usuario'])){
                     </div>
                     <div class="caja__trasera-register">
                         <h3>¿Aún no tienes una cuenta?</h3>
-                        <p>Solicita tu registro en GLPI</p>
-                        <a href="http://glpi.prosalon.e-logika.co/vtex2/index.php?noAUTO=1">
-                        <button id="btn__registrarse">Ir a GLPI</button>
+                        <p>Solicita tu Usuario: </p>
+                        <a href="mailto:harrisson.bernal@prosalon.com.co">
+                        <button id="btn__registrarse">Solicitar</button>
                         </a>
                         <a href="administrador.php">
                             <button id="btn_registrarse">Administrador</button>

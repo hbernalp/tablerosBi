@@ -106,6 +106,34 @@ session_start();
                           
                         </ul>
                       </li>
+
+                      <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">Videos Ayuda</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                          <!--<li><a class="dropdown-item" href="gpp.html" target="proyector">Gasto por persona</a></li>-->
+                          <li><a class="dropdown-item" href="https://prosalon.sharepoint.com/:v:/s/BIprosalon/ERmOTwZL8BVMkMPHGLIOhRgB7i7f6XX37VbEwEsCiP9IIw?e=l3HWMv" target="proyector">Flash de ventas</a></li>
+                          <li><a class="dropdown-item" href="https://prosalon.sharepoint.com/:v:/s/BIprosalon/EYtzaO-91wJJqREc_lqOi-UBnbk0Ap_fovWnQgc2KgHH1A?e=GzihLf" target="proyector">Pyg comercial</a></li>
+                          <li><a class="dropdown-item" href="https://prosalon.sharepoint.com/:v:/s/BIprosalon/ERPm1fOqXA5MlBxASkOd9QABgisNqNzPGcvcomGDDWbOsQ?e=e27qmF" target="proyector">Así Vamos</a></li>
+                          <li><a class="dropdown-item" href="https://prosalon.sharepoint.com/:v:/s/BIprosalon/EZ7Q3aJ1T09LqOBTvCLkBWQBP2Xy5FXId89CUuvxpbAANA?e=ySl9CA" target="proyector">II cromantic</a></li>
+                          <li><a class="dropdown-item" href="https://prosalon.sharepoint.com/:v:/s/BIprosalon/EVkkpO5I58lFnilC4pSZ4qoBQAqJ3iDHrWIDYlzZ9TdtKg?e=yrKoDj" target="proyector">I Rotacion y Encuesta de salida</a></li>
+                          <li><a class="dropdown-item" href="https://prosalon.sharepoint.com/:v:/s/BIprosalon/EdWQGFwfwQ5Mv6SHGqm58MABkJEteXSo0hJ1ecmMrB9lnQ?e=wA5a4V" target="proyector">Wep</a></li>
+                          <li><a class="dropdown-item" href="https://prosalon-my.sharepoint.com/:v:/g/personal/juan_chavarria_prosalon_com_co/ERcnXLfrCRZAmH2nEPv6-_wBXlaGrw9XnPsWsaYIwt0A1A?e=UTGHRS" target="proyector">Ecommerce-Analytics</a></li>
+                          <li><a class="dropdown-item" href="https://prosalon.sharepoint.com/:v:/s/BIprosalon/EfIwyEYGZhtLg6WSWD7Ceu4BQ6Vsvv2Mi7ao00e1hz39jg?e=4cEfk6" target="proyector">Pauta Cromantic</a></li>
+                          <li><a class="dropdown-item" href="https://prosalon.sharepoint.com/:v:/s/BIprosalon/EfIwyEYGZhtLg6WSWD7Ceu4BQ6Vsvv2Mi7ao00e1hz39jg?e=4cEfk6" target="proyector">Pauta Blind</a></li>
+                          <li><a class="dropdown-item" href="https://prosalon.sharepoint.com/:v:/s/BIprosalon/EfIwyEYGZhtLg6WSWD7Ceu4BQ6Vsvv2Mi7ao00e1hz39jg?e=4cEfk6" target="proyector">Audiencias Cromantic</a></li>
+                          <li><a class="dropdown-item" href="https://prosalon.sharepoint.com/:v:/s/BIprosalon/EfIwyEYGZhtLg6WSWD7Ceu4BQ6Vsvv2Mi7ao00e1hz39jg?e=4cEfk6" target="proyector">Audiencias Blind</a></li>
+                          <li><a class="dropdown-item" href="https://prosalon-my.sharepoint.com/personal/juan_chavarria_prosalon_com_co/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fjuan%5Fchavarria%5Fprosalon%5Fcom%5Fco%2FDocuments%2FGrabaciones%2FTablero%20Ecommerce%20%5F%20Apps%20y%20MKP%2D20220421%5F100411%2DGrabaci%C3%B3n%20de%20la%20reuni%C3%B3n%2Emp4&parent=%2Fpersonal%2Fjuan%5Fchavarria%5Fprosalon%5Fcom%5Fco%2FDocuments%2FGrabaciones&ga=1" target="proyector">Apps y MKP</a></li>
+                          <li><a class="dropdown-item" href="https://prosalon-my.sharepoint.com/:v:/g/personal/juan_chavarria_prosalon_com_co/EegQmyTYyBpDtxlwodHe9iQBWbkIXseGnNVgpfIB4FNMyQ?e=iMaCK6" target="proyector">Marcas propias</a></li>
+                          <li><a class="dropdown-item" href="https://prosalon.sharepoint.com/:v:/s/BIprosalon/ESlCp2J0vs5DpXddzWGqtbAB1Rd-lp2um2Y81gehRyq4DA?e=rR3KDt" target="proyector">Demografico</a></li>
+                          <li><a class="dropdown-item" href="https://prosalon-my.sharepoint.com/:v:/g/personal/juan_chavarria_prosalon_com_co/ERTD-gr2Kn5NsCJVdgpk8ucB9H_3sRdY-vSwgYw6feh4wA?e=iSZdWi" target="proyector">SAC BLIND</a></li>
+                          <li><a class="dropdown-item" href="https://prosalon-my.sharepoint.com/:v:/g/personal/juan_chavarria_prosalon_com_co/ERTD-gr2Kn5NsCJVdgpk8ucB9H_3sRdY-vSwgYw6feh4wA?e=iSZdWi" target="proyector">SAC Cromantic</a></li>
+                          <li><a class="dropdown-item" href="https://prosalon.sharepoint.com/:v:/s/BIprosalon/ER47VEBPuUNCmzwhJDqE1iQBsl2RhJMDs_FAdnr6_tgOPA?e=nn5uVI" target="proyector">Redes Sociales Cromantic</a></li>
+                          <li><a class="dropdown-item" href="https://prosalon.sharepoint.com/:v:/s/BIprosalon/ER47VEBPuUNCmzwhJDqE1iQBsl2RhJMDs_FAdnr6_tgOPA?e=nn5uVI" target="proyector">Redes Sociales Blind</a></li>
+                          
+                        </ul>
+                      </li>
+
+
                       <li class = "nav-item dropdown">
                           <a href="php/cerrar_sesion.php" class="nav-link dropdown-toggle" role="button">Cerrar Sesión</a>
                       </li>

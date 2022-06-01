@@ -106,6 +106,10 @@ if ($filas['id_perfil'] == 101){
                                                                                                     header("location: ../_124MercHR.php");
                                                                                                     exit();
                                                                                                 }else{
+                                                                                                    if($filas['id_perfil'] == 114){
+                                                                                                        header("location: ../_114Ninguno.php");
+                                                                                                        exit();
+                                                                                                    }else{
                                                                                                     echo'
                                                                                                     <script>
                                                                                                     alert("Usuario NO existe, por favor verifique los datos introducidos");
@@ -136,5 +140,6 @@ if ($filas['id_perfil'] == 101){
                 }
             }
         }
+    }
 ?>
 
